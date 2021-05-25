@@ -1,7 +1,5 @@
 # <h1>Hi there 👋</h1>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=fernando-martens" alt="visitor badge"/>
-
 <h3>About me: </h3>
 
 - 🔭 I’m currently working as a front-end developer
