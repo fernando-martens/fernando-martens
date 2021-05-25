@@ -5,7 +5,6 @@
 - 🔭 I’m currently working as a front-end developer
 - 📚 I'm a student of analysis and systems development
 - 💬 Ask me about anything
-- ⚡ Fun fact:
 - 📫 How to reach me: 
 
 <a target="_blank" href="mailto:fernando.martens@outlook.com">
