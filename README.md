@@ -1,7 +1,11 @@
 # <h1>Hi there 👋</h1>
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=fernando-martens.fernando-martens" alt="visitor badge"/>
+
 - 🔭 I’m currently working as a front-end developer
 - 📚 I'm a student of analysis and systems development
+- 💬 Ask me about anything
+- ⚡ Fun fact:
 - 📫 How to reach me: 
 
 <a target="_blank" href="mailto:fernando.martens@outlook.com">
@@ -9,14 +13,8 @@
 </a>
 
 <a target="_blank" href="https://mywhats.net/fernandowmartens">
-  <img alt="outlook" width="50px" src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/>
+  <img alt="whatsapp" width="50px" src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/>
 </a>
-
-
-
-
-
-
 
 
 
