@@ -2,7 +2,7 @@
 
 <h3>About me: </h3>
 
-- 🔭 I’m currently working as a front-end developer
+- 🔭 I’m currently working as a web developer
 - 📚 I'm a student of analysis and systems development
 - 💬 Ask me about anything 
 
