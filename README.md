@@ -1,26 +1,25 @@
-# <h1>Hi there 👋</h1>
+## Hi, I'm Fernando Martens, welcome
 
-<h3>About me: </h3>
+### About me:
 
-- 🔭 I’m currently working as a web developer
-- 📚 I'm a student of analysis and systems development
-- 💬 Ask me about anything 
+- 💻 Working as a full-stack developer
+- 📚 Analysis and systems development
 
-<h3>How to reach me: </h3>
+<br>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/fernando-martens/fernando-martens/assets/63741837/bf3af364-2040-4ba3-a052-08d0c6453e93">
 
-<a target="_blank" href="mailto:fernando.martens@outlook.com">
-  <img align="left" alt="Outlook" width="30px" src="https://img.icons8.com/color/48/000000/ms-outlook.png" />
-</a>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/fernando-martens/fernando-martens/assets/63741837/044a6e18-f9a7-456d-b8b8-4c32727fe765">
 
-<a target="_blank" href="https://mywhats.net/fernandowmartens">
-  <img align="left" alt="Whatsapp" width="30px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />
-</a>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/fernando-martens/fernando-martens/assets/63741837/daadeb09-de84-4493-92fe-e217ca4606f4">
+
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/fernando-martens/fernando-martens/assets/63741837/c9a8f5ee-8ebf-4828-b612-47d5ee4f2088">
+
+
 
 <br>
 <br>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-martens&show_icons=true&theme=yeblu)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-martens&layout=compact&theme=yeblu)
 
 
