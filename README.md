@@ -7,6 +7,7 @@
 - 🐈 I am the guardian of a cat named Safira
 - 💻 Working as a full-stack developer
 - 📚 Currently studying analysis and systems development
+- 💜 I love learning new technologies
 
 <br>
 <img align="center" alt="Fer-Js" height="30" width="30" src="https://github.com/fernando-martens/fernando-martens/assets/63741837/bf3af364-2040-4ba3-a052-08d0c6453e93">
