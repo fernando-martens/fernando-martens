@@ -1,10 +1,6 @@
 ## Hi, I'm Fernando
 
-<img align="center" alt="Fer-C#" height="60" width="100" src="https://github.com/fernando-martens/fernando-martens/assets/63741837/65f3009a-0eb1-4e46-bbe8-a2c8af4b597e">
-<br>
-
 ### About me:
-- 🐈 I am the guardian of a cat named Safira
 - 💻 Working as a full-stack developer
 - 📚 Currently studying analysis and systems development
 - 💜 I love learning new technologies
