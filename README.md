@@ -20,6 +20,7 @@
 
 <img align="center" alt="Fer-C#" height="30" width="30" src="https://github.com/fernando-martens/fernando-martens/assets/63741837/c9a8f5ee-8ebf-4828-b612-47d5ee4f2088">
 
+<img align="center" alt="Fer-C#" height="30" width="30" src="https://github.com/user-attachments/assets/5d37088f-8255-4250-b41d-37c46aea7fbf">
 
 <br>
 <br>
